@@ -12,8 +12,8 @@
 
 
 //WiFi
-const char* SSID = "Gladiator";                // SSID / nome da rede WiFi que deseja se conectar
-const char* PASSWORD = "fab4954def";           // Senha da rede WiFi que deseja se conectar
+const char* SSID = "nomedarede";                // SSID / nome da rede WiFi que deseja se conectar
+const char* PASSWORD = "senhadarede";           // Senha da rede WiFi que deseja se conectar
 WiFiClient wifiClient;                        
  
 //MQTT Server
